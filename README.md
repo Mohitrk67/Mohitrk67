@@ -19,9 +19,9 @@ I’m build practical analytics projects that connect data with business decisio
   - **AI & Automation:** OpenAI API, AI Business Intelligence, Natural Language Querying, Reporting Automation
   
 ## Featured Projects
-  - ### AI Business Intelligence Copilot: An AI-powered BI application that converts business datasets into KPIs, dashboards, executive insights, and natural language Q&A using Python, Streamlit, and OpenAI.
+  - ### AI Business Intelligence Copilot ###: An AI-powered BI application that converts business datasets into KPIs, dashboards, executive insights, and natural language Q&A using Python, Streamlit, and OpenAI.
   
-  - ### Reverse Logistics and Returns Analysis: A supply chain analytics project focused on return trends, cost drivers, processing time, sustainability metrics, and operational improvement using Python, SQL, and Power BI.
+  - ### Reverse Logistics and Returns Analysis ###: A supply chain analytics project focused on return trends, cost drivers, processing time, sustainability metrics, and operational improvement using Python, SQL, and Power BI.
   
   - ### Customer Shopping Behavior Analysis: A retail analytics project analyzing customer purchasing behavior, product trends, repeat purchase patterns, and business insights using Python, SQL, and Power BI.
   
