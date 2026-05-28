@@ -13,10 +13,10 @@ I’m build practical analytics projects that connect data with business decisio
   - Retail and Customer Behavior Analytics
 
 ## Tools I Work With
-  **Analytics & Programming:** Python, SQL, PostgreSQL, Pandas, NumPy  
-  **Business Intelligence:** Power BI, DAX, Excel, KPI Dashboards  
-  **App Development:** Streamlit, Flask, GitHub, VS Code  
-  **AI & Automation:** OpenAI API, AI Business Intelligence, Natural Language Querying, Reporting Automation
+  - **Analytics & Programming:** Python, SQL, PostgreSQL, Pandas, NumPy  
+  - **Business Intelligence:** Power BI, DAX, Excel, KPI Dashboards  
+  - **App Development:** Streamlit, Flask, GitHub, VS Code  
+  - **AI & Automation:** OpenAI API, AI Business Intelligence, Natural Language Querying, Reporting Automation
   
 ## Featured Projects
   - ### AI Business Intelligence Copilot: An AI-powered BI application that converts business datasets into KPIs, dashboards, executive insights, and natural language Q&A using Python, Streamlit, and OpenAI.
