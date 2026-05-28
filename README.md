@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Engineering Management Graduate | Supply Chain Analytics | Business Intelligence | Python, SQL, Power BI, Streamlit
 <!--
 **Mohitrk67/Mohitrk67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
