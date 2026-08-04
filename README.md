@@ -1,27 +1,27 @@
 # Hi, I'm Mohit 👋
 
-Engineering Management graduate focused on **Supply Chain Analytics, Business Intelligence, and AI-powered decision support** using **Python, SQL, Power BI, Streamlit, and AI**.
+I am currently working as a **Management Trainee – Data Engineer at Deloitte India** and hold a **Master of Engineering in Engineering Management** from Stevens Institute of Technology.
 
-I’m build practical analytics projects that connect data with business decisions, especially across supply chain, operations, retail analytics, reverse logistics, and dashboard-driven reporting.
+I enjoy building practical analytics and business intelligence solutions that connect data with operational and business decision-making. My experience and projects have involved data analysis, project operations, process improvement, supply chain use cases, and decision-support applications.
 
 ## Focus Areas
-  - Supply Chain Analytics and Operations Analytics
-  - Reverse Logistics and Returns Analysis
-  - Business Intelligence Dashboards
-  - SQL and Python-based Data Analysis
-  - AI-powered Decision Support Systems
-  - Retail and Customer Behavior Analytics
-
+  - Data Analytics and Business Intelligence
+  - Operations and Process Analytics
+  - Supply Chain and Reverse Logistics Analytics
+  - KPI Reporting and Decision-Support Applications
+  - Retail and Customer Behaviour Analytics
 ## Tools I Work With
-  - **Analytics & Programming:** Python, SQL, PostgreSQL, Pandas, NumPy  
-  - **Business Intelligence:** Power BI, DAX, Excel, KPI Dashboards  
-  - **App Development:** Streamlit, Flask, GitHub, VS Code  
-  - **AI & Automation:** OpenAI API, AI Business Intelligence, Natural Language Querying, Reporting Automation
+  - **Programming & Databases:** Python, SQL, Pandas, PostgreSQL, Oracle
+  - **Business Intelligence:** Power BI, DAX, Microsoft Excel, Data Modeling, KPI Reporting
+  - **Analytics & Applications:** Data Cleaning, Exploratory Analysis, Streamlit, Flask, OpenAI API
+  - **Business & Operations:** Data Warehousing, Data Lakes, Operations Analytics, Process Improvement, Requirements Gathering
   
 ## Featured Projects
-  - ### AI Business Intelligence Copilot:
-    An AI-powered BI application that converts business datasets into KPIs, dashboards, executive insights, and natural language Q&A using Python, Streamlit, and OpenAI.
-  
+ ### AI Business Intelligence Copilot
+      A Streamlit-based business intelligence application that accepts CSV and Excel files, supports data cleaning and heuristic schema mapping, generates KPI dashboards and visual analysis, and provides context-based executive insights and        natural-language Q&A.
+  **Technologies:** Python, Pandas, Streamlit, Altair, OpenAI API
+
+[View Repository](https://github.com/Mohitrk67/AI-Business-Intelligence-Copilot)
   - ### Reverse Logistics and Returns Analysis:
     A supply chain analytics project focused on return trends, cost drivers, processing time, sustainability metrics, and operational improvement using Python, SQL, and Power BI.
   
@@ -32,9 +32,9 @@ I’m build practical analytics projects that connect data with business decisio
     A Python and Power BI decision-support model that ranks universities using weighted scoring across academic, financial, and placement-related factors.
 
 ## Career Interests
-I am interested in roles related to:
-  - Supply Chain Analyst
-  - Business Intelligence Analyst
-  - Data Analyst
-  - Operations Analyst
-  - Analytics Consultant
+  I am interested in roles and projects that combine data, technology, and operational decision-making.
+    - Data Analytics
+    - Business Intelligence
+    - Operations Analytics
+    - Supply Chain Analytics
+    - Data Engineering
