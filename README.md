@@ -18,7 +18,7 @@ I enjoy building practical analytics and business intelligence solutions that co
   
 ## Featured Projects
  ### AI Business Intelligence Copilot
-      A Streamlit-based business intelligence application that accepts CSV and Excel files, supports data cleaning and heuristic schema mapping, generates KPI dashboards and visual analysis, and provides context-based executive insights and        natural-language Q&A.
+  A Streamlit-based business intelligence application that accepts CSV and Excel files, supports data cleaning and heuristic schema mapping, generates KPI dashboards and visual analysis, and provides context-based executive insights and        natural-language Q&A.
   **Technologies:** Python, Pandas, Streamlit, Altair, OpenAI API
 
 [View Repository](https://github.com/Mohitrk67/AI-Business-Intelligence-Copilot)
