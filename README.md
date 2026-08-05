@@ -47,7 +47,7 @@ I enjoy building practical analytics and business intelligence solutions that co
    [View Repository](https://github.com/Mohitrk67/Decision-Support-System-for-University-Selection)
 
 ## Career Interests
-  I am interested in roles and projects that combine data, technology, and operational decision-making.
+  I am interested in roles and projects that combine data, technology, and operational decision-making.<br>
     - Data Analytics<br>
     - Business Intelligence<br>
     - Data Engineering and Modern Data Platform<br>
