@@ -48,8 +48,8 @@ I enjoy building practical analytics and business intelligence solutions that co
 
 ## Career Interests
   I am interested in roles and projects that combine data, technology, and operational decision-making.
-    - Data Analytics
-    - Business Intelligence
-    - Data Engineering and Modern Data Platform
-    - Operation Analytics
+    - Data Analytics<br>
+    - Business Intelligence<br>
+    - Data Engineering and Modern Data Platform<br>
+    - Operation Analytics<br>
     - Supply Chain Analytics
