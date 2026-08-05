@@ -18,7 +18,7 @@ I enjoy building practical analytics and business intelligence solutions that co
   - **Business & Operations:** Data Warehousing, Data Lakes, Operations Analytics, Process Improvement, Requirements Gathering
   
 ## Featured Projects
- ### AI Business Intelligence Copilot
+ ## AI Business Intelligence Copilot
   A Streamlit-based business intelligence application that accepts CSV and Excel files, supports data cleaning and heuristic schema mapping, generates KPI dashboards and visual analysis, and provides context-based executive insights and natural-language Q&A.
 <br>
    **Technologies:** Python, Pandas, Streamlit, Altair, OpenAI API
